@@ -109,7 +109,7 @@
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
 <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcxiSInoe7fqLU0VGgS_Ce7XpMoIou_hY&libraries=places">
+    src="https://maps.googleapis.com/maps/api/js?key=GOOGLE MAP API&libraries=places">
 </script>
 
 {{-- <script src="{{asset('js/script.js')}}"></script> --}}
