@@ -22,7 +22,7 @@ class AuthKey
             // $token = Request::header('APP_KEY');
             $token = $request->header('APP_KEY');
             // dd($token);
-            $app_token = 'NEPATHYATILAK';
+            $app_token = 'Application token';
             if($token !=$app_token){
                 return response()->json(['message'=>'Authentication failed!!!'],401);
             }
